@@ -2,7 +2,7 @@ import './App.css';
 import {BrowserRouter, Routes, Route} from 'react-router-dom';
 import Home from './pages/Home';
 import Strona1 from './pages/Strona1';
-import Strona2 from './pages/strona2';
+import Strona2 from './pages/Strona2';
 import Nawigacja from './pages/Nawigacja';
 
 
